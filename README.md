@@ -1,2 +1,2 @@
-# netflix-colne
+# netflix-clone
 use html,css and javascript
